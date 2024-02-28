@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm_lsn_repo/tree/gh-pages/1.0',
+  basePath: '/kasm_lsn_repo/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
